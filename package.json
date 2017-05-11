@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jrmykolyn/sfco-js-utils/issues"
   },
-  "homepage": "https://github.com/jrmykolyn/sfco-js-utils#readme"
+  "homepage": "https://github.com/jrmykolyn/sfco-js-utils#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
 }
