@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## [0.1.0] - 2017-05-11
 ### Added
 - Added `README`, `.editorconfig`, `.gitignore`, and `CHANGELOG` files to project.
-- Created `ArrayUtils` submodule (`lib/array-util.js`), exposed `#sample` method.
+- Created `ArrayUtils` submodule (`lib/array-utils.js`), exposed `#sample` method.
 - Built out module entry point (`index.js`), exposed `ArrayUtils` submodule.
 - Added `jasmine` testing framework to project dev. dependencies.
 - Built out tests for `ArrayUtils` and `ArrayUtils#sample`.
