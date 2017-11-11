@@ -1,6 +1,6 @@
 {
   "name": "sfco-js-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "JS Utils. is a library of JavaScript utilities and helper methods.",
   "main": "index.js",
   "scripts": {
