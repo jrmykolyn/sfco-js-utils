@@ -30,7 +30,7 @@ describe( '`ArrayUtils#sample` Tests:', function() {
 		const { sample } = ArrayUtils;
 
 		var input = [];
-		var result = sample(  );
+		var result = sample( input );
 
 		expect( result ).toBe( null );
 	} );
